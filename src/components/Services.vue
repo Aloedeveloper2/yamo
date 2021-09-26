@@ -1,5 +1,5 @@
 <template>
-    <v-row>
+    <v-row id="block">
         <v-col cols="12" md="4" sm="12">
             <v-card elevation="0">
                 <v-card-title>Flexible</v-card-title>
@@ -23,7 +23,7 @@
                 <v-card-title>Simple</v-card-title>
                 <v-card-text class="body-1">
                     La gamme d'outils de paiement la plus simple sur une seule plateforme. 
-                    Inscrivez-vous sur l'application SumUp en quelques minutes seulement.
+                    Inscrivez-vous sur l'application Yamo en quelques minutes seulement.
                 </v-card-text>
             </v-card>
         </v-col>
@@ -37,5 +37,5 @@
 </script>
 
 <style>
-
+    
 </style>
